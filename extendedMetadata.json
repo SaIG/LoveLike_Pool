@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://ipfs.io/ipfs/QmT8MYm4xbtGcrBPbprL5JfnvophBh5B1yiWLB2W5zZWep",
+        "url_png_logo": "https://ipfs.io/ipfs/Qmc5A5EXvDBJg3XAx3tViqmJz6CpCiYbTUtZZqubWMGkG4",
+        "location": "Nuremberg, Germany",
+        "social": {
+            "twitter_handle": "lovelikeio",
+            "telegram_handle": "MrSaig",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "I am a former gamedev and moved my expertiese to AR & VR industrial services. Dev/Ops are my daily business. I joined the first plutus pioneer cohort back in March 2021 and fell in love with Cardano and the awesome Community. I'd love to contribute to the ecosystem with this pool and I will probably start more cardano projects in the future!",
+            "server": "Relays and producer are located in a professional data center in germany. The relays and blockproducer nodes are in separated subnets and only the relay-subnet is open to the public internet.",
+            "company": "LoveLike"
+        }
+    }
+}
