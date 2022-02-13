@@ -2,5 +2,6 @@
     "name": "LoveLike",
     "description": "LoveLike is a professional operated single pool, help us grow and decentralize cardano! LOVLK is committed to stay a singlepool operation!",
     "ticker": "LOVLK",
-    "homepage": "https://lovelike.io"
+    "homepage": "https://lovelike.io",
+    "extended": "http://extendedMeta.lovelike.io"
 }
